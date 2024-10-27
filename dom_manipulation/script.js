@@ -1,3 +1,4 @@
+
 const quotes = [
     { text: "Life is what happens when you're busy making other plans.", category: "Life" },
     { text: "Success is not the key to happiness. Happiness is the key to success.", category: "Success" },
